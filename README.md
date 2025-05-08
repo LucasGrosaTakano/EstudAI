@@ -68,27 +68,30 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 
 # Infraestrutura
 - AWS ou Azure
+```
 
-🔐 Requisitos
-Funcionais
-🔑 Autenticação com conta e e-mail
 
-🧠 Geração e correção de questões por IA
+#🔐 Requisitos
+#Funcionais
+##🔑 Autenticação com conta e e-mail
 
-📈 Painel de progresso com insights
+##🧠 Geração e correção de questões por IA
 
-🗂️ Acesso a materiais atualizados
+##📈 Painel de progresso com insights
 
-🤖 Chatbot inteligente para suporte
+##🗂️ Acesso a materiais atualizados
 
-Não Funcionais
-📱 Compatível com mobile e web
+##🤖 Chatbot inteligente para suporte
 
-⚡ Alta performance com muitos usuários
+#Não Funcionais
+#📱 Compatível com mobile e web
 
-🔒 Proteção de dados pessoais (LGPD/GDPR)
+#⚡ Alta performance com muitos usuários
 
-📊 Exemplo de Relatório Gerado
+#🔒 Proteção de dados pessoais (LGPD/GDPR)
+
+#📊 Exemplo de Relatório Gerado
+```python
 text
 Copiar
 Editar
