@@ -39,17 +39,6 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 
 ---
 
-## 🧪 Demonstração (Mockup)
-
-> ⚠️ Substitua os links abaixo por imagens reais de sua interface ou protótipos
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Dashboard+Aluno" alt="Dashboard do Aluno">
-  <img src="https://via.placeholder.com/600x300.png?text=Chat+com+IA" alt="Chat com IA">
-</div>
-
----
-
 ## 🧰 Tecnologias Utilizadas
 
 ```python
