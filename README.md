@@ -80,7 +80,7 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 ## 🔒 Proteção de dados pessoais (LGPD/GDPR)
 
 ## 📊 Exemplo de Relatório Gerado
-```C++
+```python
 text
 Copiar
 Editar
