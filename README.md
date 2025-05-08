@@ -80,7 +80,7 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 ## 🔒 Proteção de dados pessoais (LGPD/GDPR)
 
 ## 📊 Exemplo de Relatório Gerado
-```python
+```C++
 text
 Copiar
 Editar
@@ -93,7 +93,9 @@ Recomendação:
   - Refaça exercícios de cinemática
   - Estude progressões aritméticas
   - Veja vídeo: "Como interpretar gráficos no ENEM"
+
 📈 Diferenciais
+
 ✅ Inteligência Artificial de última geração
 ✅ 100% personalizável para o aluno
 ✅ Relatórios pedagógicos de verdade
