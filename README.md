@@ -71,26 +71,26 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 ```
 
 
-#🔐 Requisitos
+# 🔐 Requisitos
 #Funcionais
-##🔑 Autenticação com conta e e-mail
+## 🔑 Autenticação com conta e e-mail
 
-##🧠 Geração e correção de questões por IA
+## 🧠 Geração e correção de questões por IA
 
-##📈 Painel de progresso com insights
+## 📈 Painel de progresso com insights
 
-##🗂️ Acesso a materiais atualizados
+## 🗂️ Acesso a materiais atualizados
 
-##🤖 Chatbot inteligente para suporte
+## 🤖 Chatbot inteligente para suporte
 
-#Não Funcionais
-#📱 Compatível com mobile e web
+# Não Funcionais
+# 📱 Compatível com mobile e web
 
-#⚡ Alta performance com muitos usuários
+# ⚡ Alta performance com muitos usuários
 
-#🔒 Proteção de dados pessoais (LGPD/GDPR)
+# 🔒 Proteção de dados pessoais (LGPD/GDPR)
 
-#📊 Exemplo de Relatório Gerado
+# 📊 Exemplo de Relatório Gerado
 ```python
 text
 Copiar
