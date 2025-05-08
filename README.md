@@ -68,3 +68,42 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 
 # Infraestrutura
 - AWS ou Azure
+
+🔐 Requisitos
+Funcionais
+🔑 Autenticação com conta e e-mail
+
+🧠 Geração e correção de questões por IA
+
+📈 Painel de progresso com insights
+
+🗂️ Acesso a materiais atualizados
+
+🤖 Chatbot inteligente para suporte
+
+Não Funcionais
+📱 Compatível com mobile e web
+
+⚡ Alta performance com muitos usuários
+
+🔒 Proteção de dados pessoais (LGPD/GDPR)
+
+📊 Exemplo de Relatório Gerado
+text
+Copiar
+Editar
+Aluno: João da Silva
+Exame: ENEM
+Pontos fortes: Biologia, História
+Necessita reforço: Matemática, Física
+
+Recomendação:
+  - Refaça exercícios de cinemática
+  - Estude progressões aritméticas
+  - Veja vídeo: "Como interpretar gráficos no ENEM"
+📈 Diferenciais
+✅ Inteligência Artificial de última geração
+✅ 100% personalizável para o aluno
+✅ Relatórios pedagógicos de verdade
+✅ Design acessível e interface inclusiva
+✅ Equipe de educadores validando o conteúdo
