@@ -2,7 +2,7 @@
 
 # 🧠📚 Plataforma de Estudo com IA para Vestibulares
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNsOGpudnFoOW0xYWdiOGtyZ2Fwa3ZvcHI4bTI4dDZ5ajQ4bGR1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NHEgKIq0eW33e/giphy.gif" width="60%" alt="Estudante com IA">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNsOGpudnFoOW0xYWdiOGtyZ2Fwa3ZvcHI4bTI4dDZ5ajQ4bGR1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NHEgKIq0eW33e/giphy.gif](https://media.tenor.com/PefkNzNeTtoAAAAM/the-simpsons-bart-simpson.gif)" width="60%" >
 
 ### 💡 Estude de forma inteligente com tecnologia de ponta e uma abordagem totalmente personalizada.
 
