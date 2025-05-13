@@ -118,7 +118,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Configure sua chave de API do Gemini
-GOOGLE_API_KEY = "AIzaSyBZd8MDuFNpqxOfcFXJOh4TnE3RF0tppYA"
+GOOGLE_API_KEY = "suaAPIdoGemini"
 print(os.environ)
 genai.configure(api_key=GOOGLE_API_KEY)
 
