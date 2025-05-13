@@ -104,7 +104,8 @@ Recomendação:
 ```
 # 💻 Códigos
 ## 🐍Python
-´´´python
+
+```python
 
 python
 
@@ -178,6 +179,5 @@ def gerar_questao_endpoint():
         return jsonify({'erro': e}), 503
         
 if __name__ == "__main__":
-    app.run(debug=True)
-    
+    app.run(debug=True) 
 ```
