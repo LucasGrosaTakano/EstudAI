@@ -39,21 +39,14 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 ## 🧰 Tecnologias Utilizadas
 
 ```python
-# Backend
-- Python + FastAPI
-- Node.js
-- PostgreSQL + MongoDB
+- Java
+- HTML
+- Python
 
 # Inteligência Artificial
 - Gemini Google AI
-- IBM Watson
 
-# Frontend
-- React.js (Web)
-- Flutter (Mobile)
 
-# Infraestrutura
-- AWS ou Azure
 ```
 
 
