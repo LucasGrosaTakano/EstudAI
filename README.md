@@ -31,11 +31,8 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 | 🔧 Funcionalidade               | ✅ Descrição                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
 | 🎯 Geração de Questões         | Adaptadas ao conteúdo, vestibular e nível do aluno                          |
-| 📈 Relatórios Personalizados   | Com gráficos de desempenho e recomendações de estudo                        |
-| 💬 Chat com IA                 | Esclarece dúvidas, ensina conteúdos e orienta a preparação                  |
 | 🧠 Correção Inteligente        | Feedback detalhado sobre acertos e erros                                   |
-| 📚 Biblioteca de Materiais     | Acesso rápido a conteúdos filtrados por tema e tipo de exame               |
-| 🔐 Login Seguro                | Autenticação via e-mail e recuperação de senha                             |
+
 
 ---
 
@@ -60,49 +57,17 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 ```
 
 
-# 🔐 Requisitos
-# Funcionais
-## 🔑 Autenticação com conta e e-mail
+# 🔐 Requisitos Funcionais
 
 ## 🧠 Geração e correção de questões por IA
 
-## 📈 Painel de progresso com insights
-
-## 🗂️ Acesso a materiais atualizados
-
 ## 🤖 Chatbot inteligente para suporte
 
-# Não Funcionais
-## 📱 Compatível com mobile e web
 
-## ⚡ Alta performance com muitos usuários
 
-## 🔒 Proteção de dados pessoais (LGPD/GDPR)
 
-## 📊 Exemplo de Relatório Gerado
-```python
-text
-Copiar
-Editar
-Aluno: João da Silva
-Exame: ENEM
-Pontos fortes: Biologia, História
-Necessita reforço: Matemática, Física
-
-Recomendação:
-  - Refaça exercícios de cinemática
-  - Estude progressões aritméticas
-  - Veja vídeo: "Como interpretar gráficos no ENEM"
-
-📈 Diferenciais
-
-✅ Inteligência Artificial de última geração
-✅ 100% personalizável para o aluno
-✅ Relatórios pedagógicos de verdade
-✅ Design acessível e interface inclusiva
-✅ Equipe de educadores validando o conteúdo
-```
 # 💻 Códigos
+
 ## 🐍Python
 
 ```python
