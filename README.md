@@ -45,7 +45,7 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 - PostgreSQL + MongoDB
 
 # Inteligência Artificial
-- OpenAI GPT-4
+- Gemini Google AI
 - IBM Watson
 
 # Frontend
