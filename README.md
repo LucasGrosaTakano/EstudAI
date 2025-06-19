@@ -4,7 +4,7 @@
 
 ![](https://media.tenor.com/PefkNzNeTtoAAAAM/the-simpsons-bart-simpson.gif)
 
-### 💡 Estude de forma inteligente com tecnologia de ponta e uma abordagem totalmente personalizada.
+### 💡 É mais fácil aprender com tarefas práticas.
 
 ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
 
@@ -19,8 +19,6 @@ O ensino tradicional para vestibulares é **engessado, estressante e desatualiza
 > 🎓 **Nossa proposta**: Usar **inteligência artificial** para criar uma plataforma que:
 > - Gera questões sob medida para cada aluno
 > - Corrige respostas com explicações detalhadas
-> - Fornece relatórios de progresso
-> - Oferece um verdadeiro **tutor digital** que aprende com o aluno
 
 ---
 
