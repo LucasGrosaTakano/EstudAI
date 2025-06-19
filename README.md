@@ -7,7 +7,6 @@
 ### 💡 Estude de forma inteligente com tecnologia de ponta e uma abordagem totalmente personalizada.
 
 ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
-![Plataforma](https://img.shields.io/badge/plataforma-Web%20e%20Mobile-00c853)
 
 </div>
 
